@@ -1,4 +1,5 @@
-python infer.py \
+CUDA_VISIBLE_DEVICES=0 \
+  python infer.py \
   --pretrained_model_name_or_path ${HOME}/chLi/Model/GEN3R/Gen3R \
   --task allview \
   --prompts prompt.txt \
