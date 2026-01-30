@@ -1,0 +1,1 @@
+A smooth orbital camera movement around a single object, capturing a full 360-degree view. The object remains centered and stable while the camera slowly circles it at a constant distance, with consistent lighting, a clean background, and a cinematic, realistic style.
